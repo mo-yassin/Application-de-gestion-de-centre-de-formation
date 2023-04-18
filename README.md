@@ -1,6 +1,6 @@
 # Application-de-gestion-de-centre-de-formation
 
-Use case
+Diagramme de cas d'utilisation
 
 ![image](https://user-images.githubusercontent.com/79770772/232738620-246b7614-2500-436e-9007-7e1bd796ebea.png)
 
