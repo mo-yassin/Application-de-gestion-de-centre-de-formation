@@ -11,7 +11,3 @@ MCD
 MLD
 
 ![image](https://user-images.githubusercontent.com/79770772/232739340-3312f85a-0672-4213-83e8-32af8737f258.png)
-
-
-Requêtes SQL
-LINK: https://1drv.ms/w/s!AhNPSgjz2jKNhENldDmU_ftSgLk4?e=fS2I5t
