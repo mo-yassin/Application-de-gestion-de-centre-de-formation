@@ -4,7 +4,7 @@ CREATE TABLE `apprenant` (
   `prenom_apprenant` varchar(50) NOT NULL,
   `email_apprenant` varchar(50) NOT NULL,
   `pswd_apprenant` varchar(50) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+);
 
 CREATE TABLE `evaluation` (
   `id_evaluation` int(11) NOT NULL,
@@ -12,7 +12,7 @@ CREATE TABLE `evaluation` (
   `date_evaluation` date NOT NULL,
   `id_apprenant` int(11) NOT NULL,
   `id_session` int(11) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+);
 
 CREATE TABLE `formateur` (
   `id_formateur` int(11) NOT NULL,
